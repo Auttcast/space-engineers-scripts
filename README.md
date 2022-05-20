@@ -12,3 +12,6 @@ When the mining head is fully lowered, then the system will return to a "home" s
 
 I think that a promises api helps to make the code more readable in regards to state changes, especially when multiple chains may be evaluated at the same time. 
 This is demonstrated in the MainOperation function of the miningShipSampleScript.cs
+
+full sample: miningShipSampleScript.cs
+just the script: promise.cs
