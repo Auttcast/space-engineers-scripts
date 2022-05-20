@@ -14,4 +14,5 @@ I think that a promises api helps to make the code more readable in regards to s
 This is demonstrated in the MainOperation function of the miningShipSampleScript.cs
 
 full sample: miningShipSampleScript.cs
+
 just the script: promise.cs
